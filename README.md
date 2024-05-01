@@ -14,4 +14,3 @@
   <img align="center" alt="mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
- <img align="right" alt="pedro" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/tumblr_mavnqdzzI81qeh39oo1_r2_500.gif">
