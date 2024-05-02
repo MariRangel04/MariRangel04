@@ -14,3 +14,7 @@
   <img align="center" alt="mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+![Snake animation](https://github.com/MariaRangel04/MariaRangel04/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MariRangel04&repo=MariRangel04&theme=holi)](https://github.com/MariRangel04/MariRangel04)
