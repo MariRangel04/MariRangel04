@@ -1,4 +1,5 @@
-### Oii sou a Mari!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zeyada&weight=600&size=24&pause=1000&color=143C96&random=false&width=435&lines=Oii+Eu+sou+a+Mari;e+fa%C3%A7o+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/M4r1D">
@@ -13,4 +14,3 @@
   <img align="center" alt="mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
