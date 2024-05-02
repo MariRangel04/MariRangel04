@@ -16,10 +16,11 @@
   <img align="right" alt="gif.bill" height="30" width="40" src="https://pa1.aminoapps.com/6238/e5ccc495d919c1ba9199d2a402fe7f17758cbfad_00.gif">
 </div>
 
+##
+
 <div>
 <a href="https://instagram.com/m_clararangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariarangel-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 
