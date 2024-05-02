@@ -5,7 +5,6 @@
   <a href="https://github.com/MariRangel04">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=MariRangel04&show_icons=true&theme=holi&include_all_commits=true&count_private"/>
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRangel04&layout=compact&langs_count=16&theme=holi"/>
-  <img align="right" alt="gif.bill" height="70" width="70"src="https://pa1.aminoapps.com/6238/e5ccc495d919c1ba9199d2a402fe7f17758cbfad_00.gif">
 </div>
 
 <div>
@@ -14,6 +13,7 @@
   <img align="center" alt="mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="gif.bill" height="80" width="80"src="https://pa1.aminoapps.com/6238/e5ccc495d919c1ba9199d2a402fe7f17758cbfad_00.gif">
 </div>
 
 ##
