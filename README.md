@@ -17,4 +17,4 @@
 
 ![Snake animation](https://github.com/MariaRangel04/MariaRangel04/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MariRangel04&repo=MariRangel04&theme=holi)](https://github.com/MariRangel04/MariRangel04)
+
